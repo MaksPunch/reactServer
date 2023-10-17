@@ -5,42 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8afa22c9-2466-4fa1-a280-1908dd70c9cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/assets/index-74063c0c.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/assets/index-d1f3af61.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/vite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuthProvider.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Login.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Logout.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProtectedRoutes.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loader.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/useFetching.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/documentation.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/middleware/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/middleware/auth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/middleware/authAdmin.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/middleware/authAdmin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/models/UserToken.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/models/UserToken.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/models/user.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/models/user.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/auth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/booksRouter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/refreshToken.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/refreshToken.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/utils/generateTokens.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/utils/generateTokens.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/utils/refreshToken.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/utils/verifyRefreshToken.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/utils/verifyRefreshToken.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AppNew.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppNew.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Menu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Menu.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Register.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Register.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Routes.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserPage.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Users.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Users.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +66,7 @@
       <workItem from="1696951029279" duration="6834000" />
       <workItem from="1697442539270" duration="4984000" />
       <workItem from="1697479955597" duration="6702000" />
-      <workItem from="1697559823381" duration="9292000" />
+      <workItem from="1697559823381" duration="9511000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,129 @@
+Level:[error] LogTime: [02.10.2023] Message:-[error in login: Error: secretOrPrivateKey must have a value]
+Level:[error] LogTime: [02.10.2023] Message:-[error in login: ReferenceError: localStorage is not defined]
+Level:[error] LogTime: [02.10.2023] Message:-[error in login: TypeError: Cannot read properties of undefined (reading 'toLowerCase')]
+Level:[error] LogTime: [02.10.2023] Message:-[uncaughtException: Unexpected identifier
+C:\Users\MaksPunch\Desktop\колледж\react-router\server\middleware\auth.js:5
+        console.log(req)l;
+                        ^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (C:\Users\MaksPunch\Desktop\колледж\react-router\server\routes\auth.js:6:14)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)]
+Level:[error] LogTime: [02.10.2023] Message:-[uncaughtException: store.on is not a function
+TypeError: store.on is not a function
+    at session (C:\Users\MaksPunch\Desktop\колледж\react-router\server\node_modules\express-session\index.js:172:9)
+    at Object.<anonymous> (C:\Users\MaksPunch\Desktop\колледж\react-router\server\app.js:24:9)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47]
+Level:[error] LogTime: [02.10.2023] Message:-[uncaughtException: store.on is not a function
+TypeError: store.on is not a function
+    at session (C:\Users\MaksPunch\Desktop\колледж\react-router\server\node_modules\express-session\index.js:172:9)
+    at Object.<anonymous> (C:\Users\MaksPunch\Desktop\колледж\react-router\server\app.js:24:9)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47]
+Level:[error] LogTime: [02.10.2023] Message:-[uncaughtException: store.on is not a function
+TypeError: store.on is not a function
+    at session (C:\Users\MaksPunch\Desktop\колледж\react-router\server\node_modules\express-session\index.js:172:9)
+    at Object.<anonymous> (C:\Users\MaksPunch\Desktop\колледж\react-router\server\app.js:24:9)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47]
+Level:[error] LogTime: [02.10.2023] Message:-[uncaughtException: store.on is not a function
+TypeError: store.on is not a function
+    at session (C:\Users\MaksPunch\Desktop\колледж\react-router\server\node_modules\express-session\index.js:172:9)
+    at Object.<anonymous> (C:\Users\MaksPunch\Desktop\колледж\react-router\server\app.js:24:9)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47]
+Level:[error] LogTime: [02.10.2023] Message:-[uncaughtException: store.on is not a function
+TypeError: store.on is not a function
+    at session (C:\Users\MaksPunch\Desktop\колледж\react-router\server\node_modules\express-session\index.js:172:9)
+    at Object.<anonymous> (C:\Users\MaksPunch\Desktop\колледж\react-router\server\app.js:24:9)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47]
+Level:[error] LogTime: [02.10.2023] Message:-[uncaughtException: store.on is not a function
+TypeError: store.on is not a function
+    at session (C:\Users\MaksPunch\Desktop\колледж\react-router\server\node_modules\express-session\index.js:172:9)
+    at Object.<anonymous> (C:\Users\MaksPunch\Desktop\колледж\react-router\server\app.js:24:9)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47]
+Level:[error] LogTime: [02.10.2023] Message:-[error in login: TypeError: Cannot set properties of undefined (setting 'refreshToken')]
+Level:[error] LogTime: [02.10.2023] Message:-[error in login: TypeError: Cannot set properties of undefined (setting 'refreshToken')]
+Level:[error] LogTime: [02.10.2023] Message:-[error in login: TypeError: Cannot set properties of undefined (setting 'refreshToken')]
+Level:[error] LogTime: [02.10.2023] Message:-[error in login: TypeError: Cannot set properties of undefined (setting 'refreshToken')]
+Level:[error] LogTime: [02.10.2023] Message:-[uncaughtException: Unexpected token ';'
+C:\Users\MaksPunch\Desktop\колледж\react-router\server\routes\auth.js:103
+            user: user;
+                      ^
+
+SyntaxError: Unexpected token ';'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (C:\Users\MaksPunch\Desktop\колледж\react-router\server\app.js:21:14)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)]
+Level:[error] LogTime: [02.10.2023] Message:-[uncaughtException: store.on is not a function
+TypeError: store.on is not a function
+    at session (C:\Users\MaksPunch\Desktop\колледж\react-router\server\node_modules\express-session\index.js:172:9)
+    at Object.<anonymous> (C:\Users\MaksPunch\Desktop\колледж\react-router\server\app.js:27:9)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47]
+Level:[error] LogTime: [02.10.2023] Message:-[uncaughtException: store.on is not a function
+TypeError: store.on is not a function
+    at session (C:\Users\MaksPunch\Desktop\колледж\react-router\server\node_modules\express-session\index.js:172:9)
+    at Object.<anonymous> (C:\Users\MaksPunch\Desktop\колледж\react-router\server\app.js:27:9)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47]
+Level:[error] LogTime: [02.10.2023] Message:-[uncaughtException: rand is not defined
+ReferenceError: rand is not defined
+    at Object.<anonymous> (C:\Users\MaksPunch\Desktop\колледж\react-router\server\app.js:36:17)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47]
+Level:[error] LogTime: [02.10.2023] Message:-[error in login: TypeError: Cannot set properties of undefined (setting 'refreshToken')]

@@ -1,0 +1,36 @@
+Level:[error] LogTime: [04.10.2023] Message:-[uncaughtException: MemoryStore is not a constructor
+TypeError: MemoryStore is not a constructor
+    at Object.<anonymous> (C:\Users\MaksPunch\Desktop\колледж\react-router\server\app.js:36:10)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47]
+Level:[error] LogTime: [04.10.2023] Message:-[uncaughtException: store is not defined
+ReferenceError: store is not defined
+    at Object.<anonymous> (C:\Users\MaksPunch\Desktop\колледж\react-router\server\app.js:36:3)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47]
+Level:[error] LogTime: [04.10.2023] Message:-[error in login: TypeError: Cannot set properties of undefined (setting 'refreshToken')]
+Level:[error] LogTime: [04.10.2023] Message:-[error in login: TypeError: Cannot set properties of undefined (setting 'refreshToken')]
+Level:[error] LogTime: [04.10.2023] Message:-[error in login: ReferenceError: accessToken is not defined]
+Level:[error] LogTime: [04.10.2023] Message:-[uncaughtException: v is not defined
+ReferenceError: v is not defined
+    at Object.<anonymous> (C:\Users\MaksPunch\Desktop\колледж\react-router\server\app.js:39:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47]
+Level:[error] LogTime: [04.10.2023] Message:-[error in login: [object Object]]
+Level:[error] LogTime: [04.10.2023] Message:-[error in login: [object Object]]
+Level:[error] LogTime: [04.10.2023] Message:-[error in login: [object Object]]
+Level:[error] LogTime: [04.10.2023] Message:-[error in login: [object Object]]
+Level:[error] LogTime: [04.10.2023] Message:-[error in login: [object Object]]
+Level:[error] LogTime: [04.10.2023] Message:-[error in login: [object Object]]
