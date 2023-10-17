@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React, {useEffect, useState} from 'react'
 import {useContext} from 'react'
 import {Form, useNavigate} from 'react-router-dom';
 import axios, {Axios} from 'axios';
@@ -20,16 +20,23 @@ export default function Register() {
             withCredentials: true
         })
     })
-    const signup = async (event) => {
+    const signup = (event) => {
         event.preventDefault();
-        fetchRegister(event.target);
-        if (!error) {
+        fetchRegister(event.target).then(() => {
             setAlert('Вы успешно зарегистрировались');
+        });
+    }
+
+    useEffect(() => {
+        if (error) {
+            setAlert('');
+        } else if (alert && !error) {
             setTimeout(() => {
                 navigate('/login');
             }, 1000)
         }
-    }
+    }, [error, alert])
+
     return (
         <form className="register" method='post' onSubmit={(event) => {
             return signup(event)

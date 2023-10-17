@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, {useEffect, useState} from 'react';
 import {useNavigate} from "react-router-dom";
 import {useAuth} from "./AuthProvider.jsx";
 import axios from "axios";
@@ -23,6 +23,7 @@ const Login = () => {
     //         });
     // }
     const navigate = useNavigate()
+    let newToken = '';
 
     const [alert, setAlert] = useState('')
 
@@ -37,14 +38,20 @@ const Login = () => {
     })
     const handleLogin = async (event) => {
         event.preventDefault();
-        fetchRegister(event.target);
-        if (!error) {
-            setAlert('Вы успешно зарегистрировались');
+        fetchRegister(event.target).then(() => {
+            setAlert('Вы успешно вошли в аккаунт');
+        });
+    }
+
+    useEffect(() => {
+        if (error) {
+            setAlert('');
+        } else if (alert && !error) {
             setTimeout(() => {
                 navigate('/');
-            }, 0)
+            }, 1000)
         }
-    }
+    }, [error, alert])
 
     return (
         <form className="register" method='post' onSubmit={(event) => {

@@ -1,3 +1,8 @@
 {
-  "userToken": []
+  "userToken": [
+    {
+      "userId": 22,
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjIsInJvbGVzIjoidXNlciIsIm5hbWUiOiJtYWtzcHVuY2giLCJlbWFpbCI6Im1ha3MucHVuY2hAeWFuZGV4LnJ1IiwiaWF0IjoxNjk3NTcyOTQ5LCJleHAiOjE3MDAxNjQ5NDl9.iBYJVKUAGsFnZFMxR91o0sRKDtCiGFfow1ENaaviy10"
+    }
+  ]
 }

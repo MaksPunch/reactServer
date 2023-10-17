@@ -39,10 +39,10 @@ export default function Routes() {
             path: "/",
             element: <Home />
         },
-        (!token ? {
+        {
             path: 'login',
             element: <Login />
-        } : []),
+        },
         ...routesForAuthenticatedUsers,
         {
             path: "about",

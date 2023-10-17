@@ -62,6 +62,34 @@
       "email": "m@m.ru",
       "password": "$2b$10$qjAsg2hpUk4E1B3cE.lDL.eWnK8C2dH6T2V92oPa4lmNL0USO.vMa",
       "roles": "user"
+    },
+    {
+      "id": 32,
+      "username": "makspunch12321331",
+      "email": "maaaa@maks.ru",
+      "password": "$2b$10$MgMfsRhiHNJaxrB1usutTeglSNofnhsMghT69t3072919AA45N.QW",
+      "roles": "user"
+    },
+    {
+      "id": 33,
+      "username": "makspunch123213321",
+      "email": "madmwam@maks.ru",
+      "password": "$2b$10$5oxPwbbgeYsoRyjzajtnvOlkNbK0wigHWs6NUF//c.whm.Q2/bqcS",
+      "roles": "user"
+    },
+    {
+      "id": 34,
+      "username": "makspunch12321321321",
+      "email": "123132121321@ma.ru",
+      "password": "$2b$10$m.Emb4adhDhEPLKgXpvsHe7.AvO43vgIdEYL1gNwufh9v4LTJRI6i",
+      "roles": "user"
+    },
+    {
+      "id": 35,
+      "username": "makspunch1233211131",
+      "email": "1232131@ma.ru",
+      "password": "$2b$10$9XOvWhWFxWAulDMgw0ZjWOMuOpd7zWj2aeQ4hLBS6goLG1fcKkRou",
+      "roles": "user"
     }
   ],
   "roles": [

@@ -12558,3 +12558,5 @@ Level:[error] LogTime: [17.10.2023] Message:-[error in refreshing token: {"error
 Level:[error] LogTime: [17.10.2023] Message:-[error in refreshing token: {"error":true,"message":"Invalid refresh token verifying \n{\"name\":\"JsonWebTokenError\",\"message\":\"jwt must be provided\"}"}]
 Level:[error] LogTime: [17.10.2023] Message:-[error in refreshing token: {"error":true,"message":"Invalid refresh token verifying \n{\"name\":\"JsonWebTokenError\",\"message\":\"jwt must be provided\"}"}]
 Level:[error] LogTime: [17.10.2023] Message:-[error in refreshing token: {"error":true,"message":"Invalid refresh token verifying \n{\"name\":\"JsonWebTokenError\",\"message\":\"jwt must be provided\"}"}]
+Level:[info] LogTime: [17.10.2023] Message:-[Hello distributed log files!]
+Level:[info] LogTime: [17.10.2023] Message:-[Hello distributed log files!]
