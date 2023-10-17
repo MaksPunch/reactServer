@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8afa22c9-2466-4fa1-a280-1908dd70c9cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/index-74063c0c.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/index-d1f3af61.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AuthProvider.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProtectedRoutes.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/useFetching.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/documentation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/middleware/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/middleware/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/middleware/authAdmin.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/middleware/authAdmin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/models/UserToken.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/models/UserToken.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/models/user.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/models/user.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/booksRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/refreshToken.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/refreshToken.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/utils/generateTokens.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/utils/generateTokens.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/utils/refreshToken.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/utils/verifyRefreshToken.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/utils/verifyRefreshToken.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppNew.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppNew.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Menu.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Register.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Register.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Users.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Users.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2W1aWg2xlEEWmhlerPS3fgBa4H5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8afa22c9-2466-4fa1-a280-1908dd70c9cf" name="Changes" comment="" />
+      <created>1695902572669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695902572669</updated>
+      <workItem from="1695902573670" duration="7963000" />
+      <workItem from="1695925199447" duration="194000" />
+      <workItem from="1695963414996" duration="447000" />
+      <workItem from="1695964353826" duration="3431000" />
+      <workItem from="1696221922430" duration="3833000" />
+      <workItem from="1696254203269" duration="1000" />
+      <workItem from="1696254948347" duration="17800000" />
+      <workItem from="1696397446193" duration="5803000" />
+      <workItem from="1696423934805" duration="6939000" />
+      <workItem from="1696951029279" duration="6834000" />
+      <workItem from="1697442539270" duration="4984000" />
+      <workItem from="1697479955597" duration="6702000" />
+      <workItem from="1697559823381" duration="9292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+</project>
