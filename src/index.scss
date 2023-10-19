@@ -123,3 +123,23 @@ header {
   }
 }
 
+.page {
+  text-decoration: none;
+  padding: 10px 30px;
+  border-radius: 7px;
+  background-color: #F80102;
+  color: white;
+  border: 1px solid transparent;
+
+  transition: background-color .3s ease-in-out;
+
+  &:hover {
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #F80102;
+  }
+}
+
+.active_page {
+  background-color: #980303;
+}

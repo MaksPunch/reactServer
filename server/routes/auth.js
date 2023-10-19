@@ -115,9 +115,17 @@ router.get('/user/:id', auth, (req, res) => {
 
 router.get('/users', auth, (req, res) => {
     try {
+        const page = +req.query.page || 1;
+        const limit = +req.query.limit || 5;
+        let users = [];
+        for (let i = (page - 1) * limit; i < page * limit; i++) {
+            if (!User.users[i]) continue;
+            users.push(User.users[i]);
+        }
         res.status(200).json({
             success: 'true',
-            users: User.users
+            users,
+            total: User.users.length,
         })
     } catch (error) {
         console.log(error);

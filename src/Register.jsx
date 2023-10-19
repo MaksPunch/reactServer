@@ -3,7 +3,7 @@ import {useContext} from 'react'
 import {Form, useNavigate} from 'react-router-dom';
 import axios, {Axios} from 'axios';
 import {Context} from './context';
-import useFetching from "./useFetching.jsx";
+import useFetching from "./useFetching.js";
 import Loader from "./loader.jsx";
 import login from "./Login.jsx";
 

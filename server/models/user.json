@@ -90,6 +90,13 @@
       "email": "1232131@ma.ru",
       "password": "$2b$10$9XOvWhWFxWAulDMgw0ZjWOMuOpd7zWj2aeQ4hLBS6goLG1fcKkRou",
       "roles": "user"
+    },
+    {
+      "id": 36,
+      "username": "12312321312",
+      "email": "mwa@ma.ru",
+      "password": "$2b$10$FOXJaAZYvsspw5oJjsCL6.10b9x8blcVCN1FUMzut4WQpHXPpdWBy",
+      "roles": "user"
     }
   ],
   "roles": [

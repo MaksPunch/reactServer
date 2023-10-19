@@ -1,5 +1,5 @@
 import React from 'react'
-import { useRoutes, Link, Outlet } from 'react-router-dom'
+import {useRoutes} from 'react-router-dom'
 import UserPage from './UserPage';
 import NotFound from './NotFound';
 import Home from './Home';
@@ -12,7 +12,6 @@ import Login from "./Login.jsx";
 import Logout from "./Logout.jsx";
 
 export default function Routes() {
-    const { token } = useAuth();
     const routesForAuthenticatedUsers = [
         {
             path: "users",
@@ -21,11 +20,17 @@ export default function Routes() {
                 {
                     path: '',
                     element: <Users/>,
+                    children: [
+                        {
+                            path: ":userId",
+                            element: <UserPage />
+                        }
+                    ]
                 },
-                {
-                    path: ":userId",
-                    element: <UserPage />
-                },
+                // {
+                //     path: ":userId",
+                //     element: <UserPage />
+                // },
             ]
         },
         {
@@ -34,28 +39,27 @@ export default function Routes() {
         }
     ];
 
-    const routes = useRoutes([
+    return useRoutes([
         {
             path: "/",
-            element: <Home />
+            element: <Home/>
         },
         {
             path: 'login',
-            element: <Login />
+            element: <Login/>
         },
         ...routesForAuthenticatedUsers,
         {
             path: "about",
-            element: <About />
+            element: <About/>
         },
         {
             path: "register",
-            element: <Register />,
+            element: <Register/>,
         },
         {
             path: "*",
-            element: <NotFound />
+            element: <NotFound/>
         },
-    ])
-    return routes;
+    ]);
 }

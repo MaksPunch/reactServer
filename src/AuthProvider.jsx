@@ -48,6 +48,8 @@ const AuthProvider = ({children}) => {
                     localStorage.setItem('token', response.data.accessToken);
                     return axios.request(originalRequest);
                 } catch (error) {
+                    localStorage.removeItem('token')
+                    navigate('/login');
                     console.log("auth error")
                 }
             }

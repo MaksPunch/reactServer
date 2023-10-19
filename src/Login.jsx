@@ -2,7 +2,7 @@ import React, {useEffect, useState} from 'react';
 import {useNavigate} from "react-router-dom";
 import {useAuth} from "./AuthProvider.jsx";
 import axios from "axios";
-import useFetching from "./useFetching.jsx";
+import useFetching from "./useFetching.js";
 import Loader from "./loader.jsx";
 
 const Login = () => {

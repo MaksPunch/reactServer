@@ -13,7 +13,7 @@ export default function UserPage({ users } ) {
             .catch((error) => {
                 console.log(error);
             });
-    }, []);
+    }, [userId]);
     return <div>
         <h3>id: {user.id}</h3>
         <h3>Логин: {user.username}</h3>
